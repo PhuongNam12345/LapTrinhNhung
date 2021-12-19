@@ -122,7 +122,7 @@ int main(void)
 	}
 	if (stt==5)
 	{
-		NHAPNHAY3();
+		NHAPNHAY();
 	}
 	}
 }
